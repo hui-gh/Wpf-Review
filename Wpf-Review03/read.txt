@@ -1,0 +1,7 @@
+1. Trigger类型
+	1）Trigger：以控件的属性作为触发条件，如前面的IsMouseOver为True的时候触发。
+	2） DataTrigger：以控件DataContext的属性作为触发条件。
+	3） MultiTrigger：以控件的多个属性作为触发条件。
+	4） MultiDataTrigger：以控件DataContext的多个属性作为触发条件。
+	5） EventTrigger：以RoutedEvent作为触发条件，当指定的路由事件Raise时触发。
+...资源整合
