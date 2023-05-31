@@ -1,0 +1,5 @@
+1. 依赖属性也是一种属性，与普通属性不同之处是，他可以通过Binding绑定到其他属性上
+以此减少内存的使用，调高程序的运行效率。
+	实现依赖属性需要类继承：DependencyObject，之后定义DependencyProperty。
+	DependencyProperty被定义为不可修改，但依赖属性却可以变更的原因是：系统实际存储数据的地方是一个HashTable，DependencyProperty是作为Key来获取真正的属性值
+2. 附件属性还不会
