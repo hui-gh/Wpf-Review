@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf-Review02", "..\Wpf-Revi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-Review03", "..\Wpf-Review03\Wpf-Review03.csproj", "{8F441157-AF52-480F-94D7-39978988E0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-Review04", "..\Wpf-Review04\Wpf-Review04.csproj", "{4254DE03-CE13-4847-B12E-067666BA11C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8F441157-AF52-480F-94D7-39978988E0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F441157-AF52-480F-94D7-39978988E0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F441157-AF52-480F-94D7-39978988E0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4254DE03-CE13-4847-B12E-067666BA11C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4254DE03-CE13-4847-B12E-067666BA11C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4254DE03-CE13-4847-B12E-067666BA11C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4254DE03-CE13-4847-B12E-067666BA11C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
